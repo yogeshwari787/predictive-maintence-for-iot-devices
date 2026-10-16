@@ -1,0 +1,39 @@
+{
+  "accuracy": 0.9865,
+  "precision": 0.8542,
+  "recall": 0.9535,
+  "f1_score": 0.9011,
+  "roc_auc": 0.9968,
+  "confusion_matrix": [
+    [
+      1850,
+      21
+    ],
+    [
+      6,
+      123
+    ]
+  ],
+  "top_features": [
+    [
+      "vibration",
+      0.3986
+    ],
+    [
+      "vibration_sq",
+      0.3401
+    ],
+    [
+      "tool_wear",
+      0.1459
+    ],
+    [
+      "torque_x_wear",
+      0.0788
+    ],
+    [
+      "torque",
+      0.007
+    ]
+  ]
+}
